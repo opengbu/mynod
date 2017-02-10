@@ -1,0 +1,16 @@
+{
+  "name": "mynod",
+  "description": "Timetable Nodes",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
